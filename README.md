@@ -1,2 +1,2 @@
 # flutter-calculator
-:computer :computer: A simple calculator build in flutter.
+:computer: A simple calculator build in flutter.
